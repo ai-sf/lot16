@@ -29,7 +29,7 @@ schedule:
   - day: Friday
     date: "16/12"
     short_descr: Visits to LENS and Florence University
-       - hour: "8.15 - 9.00"
+      - hour: "8.15 - 9.00"
         descr: "Bus to LENS"
       - hour: "9.15 - 10.45"
         descr: "Lectures at LENS"
