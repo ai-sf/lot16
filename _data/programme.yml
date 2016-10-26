@@ -49,6 +49,7 @@ schedule:
   - day: Saturday
     date: "17/12"
     short_descr: Visits to VIRGO and Pisa University laboratories
+    activity:
       - hour: "9- 12.30"
         descr: "National Institute of Nuclear Physics INFN and Pisa university laboratories"
       - hour: "12.30 - 14.30"
@@ -68,6 +69,7 @@ schedule:
   - day: Sunday
     date: "18/12"
     short_descr: Visit to Florence
+    activity
       - hour: "8.30"
         descr: "Train to Florence"
       - hour: "10.00"
@@ -82,6 +84,7 @@ schedule:
   - day: Monday
     date: "19/12"
     short_descr: To be determined. Laboratory visit and ending ceremony
+    activity:
       - hour: "9.00- 13.00"
         descr: "Visit to laboratory/Lectures"
       - hour: "13.00"
