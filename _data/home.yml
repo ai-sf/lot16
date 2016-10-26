@@ -4,20 +4,29 @@ who: "40 physics students, from the Italian Association of Physics Students and 
 
 when: "Between the 15th and the 19th of December 2016."
 
-where: "In Pisa and Firenze in central Italy. Students will attend the opening ceremony at the University of Pisa. On the second day, they will visit LENS laboratories and the University of Florence. The next day they will visit INFN/Pisa and VIRGO laboratories. On sunday they will visit Florence and the last day will host other talks"
+where: "In Pisa and Firenze in central Italy. Students will attend the opening ceremony at the University of Pisa. On the second day, they will visit LENS laboratories and the University of Florence. The next day they will visit INFN/Pisa and VIRGO laboratories. On sunday they will visit Florence and the last day there will be more talks"
 
 slideshow:
-  - img: img/LNGS_home.jpg
-    alt: Gran Sasso National Laboratories
-    title: LNGS
-    text: Gran Sasso National Laboratories
-  - img: img/GSSI_home.jpg
-    alt: Gran Sasso Science Institute
-    title: GSSI
-    text: Gran Sasso Science Institute
-  - img: img/LNF_home.jpg
+  - img: img/
+    alt: European Laboratory for Nonlinear Spectroscopy
+    title: LENS
+    text: European Laboratory for Nonlinear Spectroscopy
+  - img: img/
+    alt: VIRGO European Gravitational Observatory
+    title: VIRGO
+    text: VIRGO European Gravitational Observatory
+  - img: img/
     alt: Italian National Agency for Nuclear Physics
-    title: LNF
-    text: Italian National Agency for Nuclear Physics
+    title: INFN
+    text: Italian National Agency for Nuclear Physics  
+  - img: img/
+    alt: University of Pisa
+    title: UNIPI
+    text: University of Pisa
+  - img: img/
+    alt: University of Florence
+    title: UNIFI
+    text: University of Florence
+    
 
 paragraph: "The Lights of Tuscany programme, now at its second edition, is organised by the Italian Association of Physics Students and is open to all members of the International Association of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists."
