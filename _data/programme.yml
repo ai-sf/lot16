@@ -51,7 +51,7 @@ schedule:
     short_descr: Visits to VIRGO and Pisa University laboratories
     activity:
       - hour: "9 - 12.30"
-        descr: "National Institute of Nuclear Physics INFN and Pisa university laboratories"
+        descr: "National Institute of Nuclear Physics INFN and Pisa University laboratories"
       - hour: "12.30 - 14.30"
         descr: "Lunch"
       - hour: "14.30 - 15.00"
