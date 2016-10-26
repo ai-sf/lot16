@@ -10,9 +10,9 @@ schedule:
     date: "15/12"
     short_descr: Arrival and opening cerimony in Pisa.
     activity:
-      - hour: "14:00 - 17:30"
+      - hour: "14.00 - 17.30"
         descr: "Check-in"
-      - hour: "17:30 - 18.30"
+      - hour: "17.30 - 18.30"
         descr: "Opening Ceremony"
       - hour: "18.30 - 18.45"
         descr: "Coffee break"
@@ -22,7 +22,7 @@ schedule:
         descr: "Round Table"
       - hour: "20.30 - 22.00"
         descr: "Opening buffet"
-      - hour: "22.00-"
+      - hour: "22.00 -"
         descr: "Pisa by night"
         
         
@@ -34,13 +34,13 @@ schedule:
         descr: "Bus to LENS"
       - hour: "9.15 - 10.45"
         descr: "Lectures at LENS"
-      - hour: "10.45-11.00"
+      - hour: "10.45 - 11.00"
         descr: "Coffee break"
-      - hour: "11.00-12.30"
+      - hour: "11.00 - 12.30"
         descr: "Lectures at LENS"
-      - hour: "12.30-14.00"
+      - hour: "12.30 - 14.00"
         descr: "Lunch"
-      - hour: "14.00-18.00"
+      - hour: "14.00 - 18.00"
         descr: "LENS Laboratories"
       - hour: "20.30"
         descr: "Social Dinner"
@@ -50,19 +50,19 @@ schedule:
     date: "17/12"
     short_descr: Visits to VIRGO and Pisa University laboratories
     activity:
-      - hour: "9- 12.30"
+      - hour: "9 - 12.30"
         descr: "National Institute of Nuclear Physics INFN and Pisa university laboratories"
       - hour: "12.30 - 14.30"
         descr: "Lunch"
       - hour: "14.30 - 15.00"
         descr: "Bus to Virgo"
-      - hour: "15.00-15.45"
+      - hour: "15.00 - 15.45"
         descr: "Lectures at VIRGO"
       - hour: "15.45 - 18.00"
         descr: "VIRGO laboratories"
-      - hour: "19.00-20.30"
-        descr: "Apericena"
-      - hour: "20.30"
+      - hour: "19.00 - 20.30"
+        descr: "Italian 'Apericena' "
+      - hour: "20.30 -"
         descr: "Free evening in Pisa"
         
         
@@ -74,7 +74,7 @@ schedule:
         descr: "Train to Florence"
       - hour: "10.00"
         descr: "Uffizi Gallery visit (Optional)"
-      - hour: "10.00-19.30"
+      - hour: "10.00 - 19.30"
         descr: "Free day in Florence"
       - hour: "19.30"
         descr: "Dinner in Florence (Not included)"
@@ -85,7 +85,7 @@ schedule:
     date: "19/12"
     short_descr: To be determined. Laboratory visit and ending ceremony
     activity:
-      - hour: "9.00- 13.00"
+      - hour: "9.00 - 13.00"
         descr: "Visit to laboratory/Lectures"
       - hour: "13.00"
         descr: "Ending Ceremony"
