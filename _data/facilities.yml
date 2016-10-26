@@ -20,29 +20,29 @@ science:
   - img: img/facilities/1.jpg
     title: LENS
     descr: ""
-    site:www.lens.unifi.it/
+    site: "www.lens.unifi.it/"
     map:
 
   - img: img/facilities/1.jpg
     title: VIRGO
     descr: ""
-    site:www.virgo-gw.eu/
+    site:"www.virgo-gw.eu/"
     map:
 
   - img: img/facilities/2.jpg
     title: INFN
     descr: ""
-    site:www.pi.infn.it/index.php?id=1&L=1
+    site:"www.pi.infn.it/index.php?id=1&L=1"
     map:
 
   - img: img/facilities/3.jpg
     title: University of Pisa
     descr: ""
-    site:www.df.unipi.it/
+    site:"www.df.unipi.it/"
     map:
 
   - img: img/facilities/1.jpg
     title: University of Florence
     descr: ""
-    site:www.fisica.unifi.it/
+    site:"www.fisica.unifi.it/"
     map:
