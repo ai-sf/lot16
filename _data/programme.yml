@@ -69,7 +69,7 @@ schedule:
   - day: Sunday
     date: "18/12"
     short_descr: Visit to Florence
-    activity
+    activity:
       - hour: "8.30"
         descr: "Train to Florence"
       - hour: "10.00"
