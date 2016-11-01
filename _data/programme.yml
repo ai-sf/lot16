@@ -78,7 +78,7 @@ schedule:
         descr: "Free day in Florence"
       - hour: "18.00 - 19.00"
         descr: "Train To Pisa"
-      - hour: "19.30-"
+      - hour: "19.30 - 21.00"
         descr: "Greek Dinner @ "Itaca" Restaurant"
       - hour: "21.00- ..."
         descr:"Free night in Pisa"
