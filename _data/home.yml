@@ -7,11 +7,11 @@ when: "Between the 15th and the 19th of December 2016."
 where: "In Pisa and Firenze in central Italy. Students will attend the opening ceremony at the University of Pisa. On the second day, they will visit LENS laboratories and the University of Florence. The next day they will visit INFN/Pisa and VIRGO laboratories. On sunday they will visit Florence and the last day there will be more talks"
 
 slideshow:
-  - img: img/
+  - img: img/facilities/LoT6.jpg
     alt: European Laboratory for Nonlinear Spectroscopy
     title: LENS
     text: European Laboratory for Nonlinear Spectroscopy
-  - img: img/
+  - img: img/facilities/LoT5.jpg
     alt: VIRGO European Gravitational Observatory
     title: VIRGO
     text: VIRGO European Gravitational Observatory
@@ -19,7 +19,7 @@ slideshow:
     alt: Italian National Agency for Nuclear Physics
     title: INFN
     text: Italian National Agency for Nuclear Physics  
-  - img: img/
+  - img: img/facilities/IMG_-_46.jpg
     alt: University of Pisa
     title: UNIPI
     text: University of Pisa
