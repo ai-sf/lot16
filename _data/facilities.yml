@@ -20,24 +20,24 @@ science:
   - img: img/facilities/LoT6.jpg
     title: LENS
     descr: "The European Laboratory for Non-linear Spectroscopy (LENS) is an international and interdisciplinary structure in Florence. The main research lines are atomic physics, photonics, physical chemistry and biophysics."
-    site: "http://lens.unifi.it"
+    site: "http://www.lens.unifi.it"
     map:
 
   - img: img/facilities/VIRGO.jpg
     title: VIRGO
     descr: "The VIRGO is a gravitational wave detector made up by a massive Michelson laser interferometer."
-    site: "http://virgo-gw.eu"
+    site: "http://www.virgo-gw.eu"
     map:
 
 
   - img: img/facilities/IMG_-_46.jpg
     title: University of Pisa
     descr: "The University of Pisa is one of the most ancient universities of Italy and Europe. In its facilities among the others studied the Physics Nobel laureates Enrico Fermi and Carlo Rubbia. We will visit the labs of optics, lasers and crystal growth."
-    site: "http://df.unipi.it"
+    site: "http://www.df.unipi.it"
     map:
 
   - img: img/facilities/unifi.jpg
     title: University of Florence
     descr: ""
-    site: "http://fisica.unifi.it/"
+    site: "http://www.fisica.unifi.it/"
     map:
