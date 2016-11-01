@@ -13,7 +13,7 @@ During our visits, we will be offered a large number of talks, as in the 2015 ed
 accomodation:
   - img: img/facilities/hotel.jpg
     title: Hotel Moderno
-    descr: 
+    descr: "Accomodation in Pisa will be provided at the Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)
     site: "https://www.hotelmoderno.pisa.it/en/"
     map: "https://goo.gl/maps/BuixrGsC8tQ2"
 
@@ -39,6 +39,6 @@ science:
 
   - img: img/facilities/unifi.jpg
     title: University of Florence
-    descr: ""
+    descr: "The University of Florence is the biggest in tuscany. Its new physics deparment, in a scientific campus outside the city, is strongly linked with other institutions. Among a wide array of research fields, a large physics of matter delegation studies mainly biophotonics and quantum technologies."
     site: "http://www.fisica.unifi.it/"
     map:
