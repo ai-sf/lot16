@@ -1,4 +1,4 @@
-- id: "/"
+- id: "{{ site.url }}"
   title: "Lights Of Tuscany 2016"
   img: "img/logo_Lot_DEF.png"
   description: "Programme for international physics students in the VIRGO, LENS, INFN labs and Universities of Pisa and Florence"
