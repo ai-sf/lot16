@@ -29,11 +29,11 @@ science:
     site: "www.virgo-gw.eu/"
     map:
 
-  - img: img/facilities/LoT5.jpg
+  <!-- img: img/facilities/LoT5.jpg
     title: INFN
     descr: ""
     site: "www.pi.infn.it/index.php?id=1&L=1"
-    map:
+    map: -->
 
   - img: img/facilities/IMG_-_46.jpg
     title: University of Pisa
