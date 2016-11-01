@@ -1,6 +1,6 @@
-# Site settings
-#title: "LOT2016"
-# description: "Lights of Tuscany 2016"
+ # Site settings
+  # title: "Acr Ev"
+  # description: "nome evento completo"
 url: "http://ai-sf.it/lot16" # the base hostname & protocol for your site
 destination: ../site/
 locale: "it"
