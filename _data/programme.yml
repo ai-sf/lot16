@@ -3,7 +3,7 @@ info: " <p> The Lights of Tuscany programme is coming to its second edition. Fol
 During the Programme, 40 students will be visiting the European Laboratory for Nonlinear Spectroscopy, the VIRGO site of the European Gravitational Observatory and the facilities at the INFN, University of Pisa and University of Firenze in central Italy. The event will have a focus on Photonics, but a number of other topics will be touched upon, including plasma physics, quantum optics, high energy collisions. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.
 </p> "
 
-last_update: 26/10/16
+last_update: 01/11/2016
 
 schedule:
   - day: Thursday
@@ -17,11 +17,11 @@ schedule:
       - hour: "18.30 - 18.45"
         descr: "Coffee break"
       - hour: "18.45 - 19.45"
-        descr: "Lectures at Pisa University"
+        descr: "Second Round of Lectures"
       - hour: "19.45 - 20.30"
         descr: "Round Table"
       - hour: "20.30 - 22.00"
-        descr: "Opening buffet"
+        descr: "Italian Apericena"
       - hour: "22.00 -"
         descr: "Pisa by night"
         
@@ -41,9 +41,9 @@ schedule:
       - hour: "12.30 - 14.00"
         descr: "Lunch"
       - hour: "14.00 - 18.00"
-        descr: "LENS Laboratories"
+        descr: "Visit to LENS Laboratories"
       - hour: "20.30"
-        descr: "Social Dinner"
+        descr: "Social Dinner at Pizzeria"
         
         
   - day: Saturday
@@ -51,7 +51,7 @@ schedule:
     short_descr: Visits to VIRGO and Pisa University laboratories
     activity:
       - hour: "9 - 12.30"
-        descr: "National Institute of Nuclear Physics INFN and Pisa University laboratories"
+        descr: "Visit to Pisa University Laboratories"
       - hour: "12.30 - 14.30"
         descr: "Lunch"
       - hour: "14.30 - 15.00"
@@ -59,27 +59,29 @@ schedule:
       - hour: "15.00 - 15.45"
         descr: "Lectures at VIRGO"
       - hour: "15.45 - 18.00"
-        descr: "VIRGO laboratories"
-      - hour: "19.00 - 20.30"
-        descr: "Italian 'Apericena' "
-      - hour: "20.30 -"
-        descr: "Free evening in Pisa"
+        descr: "Visit to the VIRGO facility"
+      - hour: "18.30 - 19.30"
+        descr: "Bus To Florence"
+      - hour: "20.00"
+        descr: "Check-in in Florence Hostel"
+      - hour: "20.30- .."
+        descr: "Free night in Florence"
         
         
   - day: Sunday
     date: "18/12"
     short_descr: Visit to Florence
     activity:
-      - hour: "8.30"
-        descr: "Train to Florence"
-      - hour: "10.00"
+      - hour: "9.30"
         descr: "Uffizi Gallery visit (Optional)"
-      - hour: "10.00 - 19.30"
+      - hour: "10.00 - 17.30"
         descr: "Free day in Florence"
-      - hour: "19.30"
-        descr: "Dinner in Florence (Not included)"
-      - hour: "22.15"
-        descr: "Train to Pisa"
+      - hour: "18.00 - 19.00"
+        descr: "Train To Pisa"
+      - hour: "19.30-"
+        descr: "Greek Dinner @ "Itaca" Restaurant"
+      - hour: "21.00- ..."
+        descr:"Free night in Pisa"
         
   - day: Monday
     date: "19/12"
