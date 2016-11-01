@@ -7,7 +7,7 @@ when: "Between the 15th and the 19th of December 2016."
 where: "In Pisa and Firenze in central Italy. Students will attend the opening ceremony at the University of Pisa. On the second day, they will visit LENS laboratories and the University of Florence. The next day they will visit INFN/Pisa and VIRGO laboratories. On sunday they will visit Florence and the last day there will be more talks"
 
 slideshow:
-  - img: img/facilities/1.jpg
+  - img: img/facilities/lens.jpg
     alt: European Laboratory for Nonlinear Spectroscopy
     title: LENS
     text: European Laboratory for Nonlinear Spectroscopy
