@@ -81,7 +81,7 @@ schedule:
       - hour: "19.30 - 21.00"
         descr: "Greek Dinner @ \"Itaca\" Restaurant"
       - hour: "21.00- ..."
-        descr:"Free night in Pisa"
+        descr: "Free night in Pisa"
         
   - day: Monday
     date: "19/12"
