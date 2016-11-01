@@ -10,9 +10,9 @@
     <meta name="keywords" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.keywords }}{% endif %}{% endfor %}{% if trovato != true %}aisf associazione italiana studenti di fisica iaps{% if page.tags %} {{ page.tags }}{% endif %}{% endif %}" />
     <meta property="og:image" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{{ site.url }}/{{ entry.img }}{% endif %}{% endfor %}">
     -->
-    <meta property="og:title" content="{{ site.data.meta.title }}">
-    <meta property="og:description" content="{{ site.data.meta.description }}">
-    <meta property="og:keywords" content="{{ site.data.meta.keywords }}">
+    <meta name="title" content="{{ site.data.meta.title }}">
+    <meta name="description" content="{{ site.data.meta.description }}">
+    <meta name="keywords" content="{{ site.data.meta.keywords }}">
     <meta property="og:image" content="{{ site.data.meta.img }}">
     
 <!-- og -->
