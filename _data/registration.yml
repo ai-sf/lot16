@@ -30,7 +30,7 @@ terms:
 deadlines:
   info: ""
   specs:
-    - text: "A first round of registration for the event will be open at this page between November 3 and 10"
+    - text: "A first round of registration for the event will be open at this page between November 3 and 10."
       url: "#!"
     - text: "Following the registration period, we expect to email all applicants within 2 days. Payments will then be required (by bank transfer or PayPal) within 5 days of receiving an acceptance email from the organising committee."
       url: "#!"
