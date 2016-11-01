@@ -1,4 +1,4 @@
-info: "Registration will be opened on this page between November  and , 2016.
+info: "Registration will be opened on this page between November 3  and November 10, 2016.
 </p><p>
 Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a 100 word text to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously (expressing your interest with clarity and good spelling!), as it will be taken into consideration when selecting applicants."
 
@@ -30,9 +30,9 @@ terms:
 deadlines:
   info: ""
   specs:
-    - text: "A first round of registration for the event will be open at this page between "
+    - text: "A first round of registration for the event will be open at this page between November 3 and 10"
       url: "#!"
-    - text: "Following the registration period, we expect to email all applicants within 10 days. The selection process will end before the beginning of . Payments will then be required (by bank transfer or PayPal) within 10 days of receiving an acceptance email from the organising committee."
+    - text: "Following the registration period, we expect to email all applicants within 2 days. Payments will then be required (by bank transfer or PayPal) within 5 days of receiving an acceptance email from the organising committee."
       url: "#!"
     - text: "Please notice that applicants do not need to be specialising in the field of photonics, but can be from any discipline of Physics."
       url: "#!"
