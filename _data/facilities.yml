@@ -24,6 +24,12 @@ accomodation:
     descr: "Accomodation in Pisa will be provided at the Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
     site: "https://www.hotelmoderno.pisa.it/en/"
     map: "https://goo.gl/maps/BuixrGsC8tQ2"
+    
+  - img: img/facilities/hotel2.jpg
+    title: Plus Florence Hostel
+    descr: "Accomodation in Florence will be provided at the Plus Florence Hostel, Via S.Caterina D’Alessandria 15/17 50129 - Firenze (FI). Pool, sauna, terrace bar, restaurant, disco, travel desk, laundry plus just a 10 minute walk from the station and the centre."
+    site: "http://www.plushostels.com/it/plusflorence"
+    map: "https://goo.gl/maps/RbpGkEVn2FF2"
 
 science:
   - img: img/facilities/LoT6.jpg
