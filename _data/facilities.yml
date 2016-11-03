@@ -14,8 +14,8 @@ restaurant:
 -   img: img/facilities/itaca.jpg
     title: Itaca
     descr: "-"
-    site: "http://www.lens.unifi.it"
-    map:
+    site: 
+    map: "https://goo.gl/maps/pa9sYxMj9Lo"
 
 
 accomodation:
