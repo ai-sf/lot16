@@ -67,4 +67,5 @@ science:
   -img: img/facilities/INO.jpg
    title: INO
    descr: "The current National Institute of Optics (INO) has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
-   
+   site:
+   map:
