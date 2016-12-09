@@ -64,8 +64,8 @@ science:
     site: "http://www.df.unipi.it"
     map: "https://www.google.es/maps/place/Largo+Bruno+Pontecorvo,+56127+Pisa+PI,+Italy/@43.7199988,10.4051688,17z/data=!3m1!4b1!4m5!3m4!1s0x12d591bca16a42c9:0x1b68e0b23702261a!8m2!3d43.7199949!4d10.4073628?hl=en"
     
-  -img: img/facilities/INO.jpg
-   title: INO
-   descr: "The current National Institute of Optics (INO) has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
-   site:
-   map:
+  - img: img/facilities/INO.jpg
+    title: INO
+    descr: "The current National Institute of Optics (INO) has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
+    site:
+    map:
