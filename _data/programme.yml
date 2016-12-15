@@ -3,58 +3,72 @@ info: " <p> The Lights of Tuscany programme is coming to its second edition. Fol
 During the Programme, 40 students will be visiting the European Laboratory for Nonlinear Spectroscopy, the VIRGO site of the European Gravitational Observatory and the facilities at the INFN, University of Pisa and University of Firenze in central Italy. The event will have a focus on Photonics, but a number of other topics will be touched upon, including plasma physics, quantum optics and high energy collisions. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.
 </p> "
 
-last_update: 03/11/2016
+last_update: 15/12/2016
 
 schedule:
   - day: Thursday
     date: "15/12"
-    short_descr: Arrival and opening cerimony in Pisa.
+    short_descr: Arrival and Opening Ceremony in Pisa.
     activity:
-      - hour: "14.00 - 17.30"
+      - hour: "12.00 - 16.00"
         descr: "Check-in"
-      - hour: "17.30 - 18.30"
-        descr: "Opening Ceremony"
-      - hour: "18.30 - 18.45"
-        descr: "Coffee break"
-      - hour: "18.45 - 19.45"
-        descr: "Second Round of Lectures"
-      - hour: "19.45 - 20.30"
-        descr: "Round Table"
-      - hour: "20.30 - 22.00"
+      - hour: "17.00-17.20"
+        descr: "Introduction to LoT and IAPS"
+      - hour: "17.20-17.50"
+        descr: "Prof. Andrea Macchi"
+      - hour: "17.50-18.20"
+        descr: "Prof. Alessandro Pitanti"
+      - hour: "18.20-18.30"
+        descr: "Short Break"
+      - hour: "18.30-19.00"
+        descr: "Prof. Isidoro Ferrante"
+      - hour: "19.00-19.30"
+        descr: "Prof. Oliver Morsch"
+      - hour: "19.30-19.50"
+        descr: "ICPS 2017"
+      - hour: "19.50-21.30"
         descr: "Italian Apericena"
-      - hour: "22.00 -"
-        descr: "Pisa by night"
-        
+      - hour: "21.30- ..."
+        descr: "Pisa by Night"
         
   - day: Friday
     date: "16/12"
     short_descr: Visit to LENS and UNIFI laboratories
     activity:
-      - hour: "8.15 - 9.00"
+      - hour: "08.15 - 09.00"
         descr: "Bus to LENS"
-      - hour: "9.15 - 10.45"
-        descr: "Lectures at LENS/UNIFI"
-      - hour: "10.45 - 11.00"
-        descr: "Coffee break"
-      - hour: "11.00 - 12.30"
-        descr: "Lectures at LENS/UNIFI"
-      - hour: "12.30 - 14.00"
-        descr: "Lunch"
-      - hour: "14.00 - 18.00"
-        descr: "Visit to LENS and Florence University Laboratories"
-      - hour: "20.30"
-        descr: "Social Dinner at Pizzeria"
+      - hour: "09.15 - 09.45"
+        descr: "Prof. Leonardo Fallani"
+      - hour: "09.45 - 10.15"
+        descr: "Prof. Massimo Gurioli: Engineering Light Modes"
+      - hour: "10.15 - 10.30"
+        descr: "Coffee Break"
+      - hour: "10.30-11.00"
+        descr: "Prof. Diederik Wiersma: Photonics Inspired by Nature"
+      - hour: "11.00-11.30"
+        descr: "Prof. Francesco Saverio Cataliotti: Quantum Technologies: bilocation, teleportation and other quantum marvels"
+      - hour: "11.30-11.45"
+        descr: "Thesis, PHD, Internship @Unifi and @LENS"
+      - hour: "12.00-13.15"
+        descr: "Labs Visit"
+      - hour: "13.15-14.30"
+        descr: "Lunch @LENS"
+      - hour: "14.30-18.00"
+        descr: "Labs Visit"
+        
+        
+        
         
         
   - day: Saturday
     date: "17/12"
     short_descr: Visits to VIRGO and Pisa University laboratories
     activity:
-      - hour: "9 - 12.30"
+      - hour: "10.30 - 13.15"
         descr: "Visit to Pisa University Laboratories"
-      - hour: "12.30 - 14.30"
+      - hour: "13.15 - 14.30"
         descr: "Lunch"
-      - hour: "14.30 - 15.00"
+      - hour: "14.50 - 15.15"
         descr: "Bus to Virgo"
       - hour: "15.00 - 15.45"
         descr: "Lectures at VIRGO"
