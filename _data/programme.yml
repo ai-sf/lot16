@@ -102,7 +102,7 @@ schedule:
     short_descr: To be determined. Laboratory visit and ending ceremony
     activity:
       - hour: "9.00 - 13.00"
-        descr: "Visit to laboratory/Lectures"
+        descr: "Visit to LENS/INO"
       - hour: "13.00"
         descr: "Ending Ceremony"
 
